@@ -16,5 +16,9 @@
     "central"
   ],
   "author": "Bryce Jacobs",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "debug": "~2.2.0",
+    "dbus": "~0.2.12"
+  }
 }
