@@ -3,4 +3,4 @@
  */
 'use strict';
 
-exports = module.exports = require('./lib').init();
+exports = module.exports = require('./lib/bluez');
