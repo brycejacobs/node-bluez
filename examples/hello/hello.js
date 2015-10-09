@@ -15,7 +15,7 @@ var Service = GATT.Service;
 
 function HelloCharacteristic(service){
     Characteristic.call(this, {
-        uuid: 1234,
+        uuid: '13333333-3333-3333-3333-333333333333',
         flags: ['read'],
         index: 0,
         service: service,
